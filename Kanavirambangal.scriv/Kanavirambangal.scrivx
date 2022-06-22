@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ScrivenerProject Template="No" Version="2.0" Identifier="5C7BB5E8-D8C6-42A7-B882-1EE8999B8AFE" Creator="SCRWIN-3.1.1.0" Device="DESKTOP-P3U8FOU" Modified="2022-06-13 01:05:37 +1000" ModID="6AD76AB5-5399-4293-A2F7-0ACD10CA5B6C">
+    <Binder>
+        <BinderItem UUID="F74F44D9-5F22-4342-B14E-3FCB3F3AF700" Type="Image" Created="2020-04-12 01:32:27 +1000" Modified="2020-04-12 15:50:11 +1000">
+            <Title>Cover</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+                <FileExtension>jpg</FileExtension>
+                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+            </MetaData>
+            <MediaSettings>
+                <ImageScaleFactor>1</ImageScaleFactor>
+                <ImageRotation>None</ImageRotation>
+                <ImageScalesProportionally>Yes</ImageScalesProportionally>
+            </MediaSettings>
+        </BinderItem>
+        <BinderItem UUID="CD4D14BB-82D8-4AA6-8D4F-17DFFA8B70A6" Type="Folder" Created="2020-04-28 17:14:48 +1000" Modified="2020-04-28 17:44:04 +1000">
+            <Title>Front</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+            <TextSettings>
+                <TextSelection>0,0</TextSelection>
+            </TextSettings>
+            <Children>
+                <BinderItem UUID="176C7350-07C3-49E9-A2FC-9B8F9729B3BC" Type="Text" Created="2020-04-12 09:56:50 +1000" Modified="2021-11-07 16:21:40 +1000">
+                    <Title>സമര്‍പ്പണം</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>rtf</FileExtension>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>225,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="CE46516D-CB21-4068-B345-BDB2A53A571E" Type="Text" Created="2020-04-12 15:30:20 +1000" Modified="2020-04-28 17:44:04 +1000">
+                    <Title>ബയോ</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>rtf</FileExtension>
+                        <SectionType>2234481D-319F-43C9-8DF1-34052ADF1623</SectionType>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>13,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="86C45529-0CFB-4D19-B02E-6D115169310B" Type="Text" Created="2020-04-12 09:56:18 +1000" Modified="2021-11-07 16:11:39 +1000">
+                    <Title>കോപ്പിറൈറ്റ്</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>rtf</FileExtension>
+                        <SectionType>2234481D-319F-43C9-8DF1-34052ADF1623</SectionType>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>226,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="86E55171-47A3-4ABE-920D-275E89FA7C76" Type="Text" Created="2020-04-12 10:04:44 +1000" Modified="2020-04-28 17:44:04 +1000">
+                    <Title>ആമുഖം </Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>rtf</FileExtension>
+                        <SectionType>2234481D-319F-43C9-8DF1-34052ADF1623</SectionType>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>20,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="217B24AB-28E0-4857-9B77-DD8E335F5FA9" Type="Text" Created="2020-04-12 09:58:03 +1000" Modified="2021-11-07 17:01:57 +1000">
+                    <Title>അവതാരിക</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>rtf</FileExtension>
+                        <SectionType>2234481D-319F-43C9-8DF1-34052ADF1623</SectionType>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>16,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem UUID="A87254CF-0CE0-4726-B930-7EEE1D6A693A" Type="DraftFolder" Created="2020-04-12 09:11:28 +1000" Modified="2020-04-12 09:11:28 +1000">
+            <Title>Draft</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+            <Children>
+                <BinderItem UUID="0FDCF197-B782-4364-B10A-9892B6D38F23" Type="Folder" Created="2020-04-12 09:21:50 +1000" Modified="2022-04-10 16:32:10 +1000">
+                    <Title>ഇസബെല്ല</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem UUID="159FABCF-1B9E-439B-9594-29D48183B1FC" Type="Text" Created="2020-04-12 09:11:28 +1000" Modified="2022-04-10 16:32:10 +1000">
+                            <Title>ഇസബെല്ല</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>244,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem UUID="2F9AD478-CAFA-4E24-8A42-EE1383264EC3" Type="Folder" Created="2021-11-07 16:17:57 +1000" Modified="2022-04-10 16:32:10 +1000">
+                    <Title>കനവിരമ്പങ്ങള്‍</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <CorkboardAndOutliner>
+                        <SelectedSubdocumentUUIDs>632E6675-4B4E-4C50-9299-D5E211739AE4</SelectedSubdocumentUUIDs>
+                        <CorkboardSettings>
+                            <Arrangement>Linear</Arrangement>
+                        </CorkboardSettings>
+                    </CorkboardAndOutliner>
+                    <Children>
+                        <BinderItem UUID="632E6675-4B4E-4C50-9299-D5E211739AE4" Type="Text" Created="2021-11-07 16:18:47 +1000" Modified="2022-04-10 16:32:10 +1000">
+                            <Title>കനവിരമ്പങ്ങള്‍</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>7802,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem UUID="512070F7-E400-4CAD-8424-E8AFBF28454C" Type="Folder" Created="2022-04-10 16:30:19 +1000" Modified="2022-04-10 16:33:44 +1000">
+                    <Title>മായികം</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem UUID="F89F7067-2CEA-4B4A-B874-4A519271DCD5" Type="Text" Created="2022-06-12 23:34:00 +1000" Modified="2022-06-12 23:44:02 +1000">
+                            <Title>മായികം</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection Caret="6">0,6</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="9027F29B-DBA1-4048-BAF1-023A25DB1009" Type="Text" Created="2022-04-10 16:34:03 +1000" Modified="2022-06-12 23:43:56 +1000">
+                            <Title>മായികം old</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>792,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem UUID="8866FDE7-CD10-4AFF-9C84-0FE64A230F06" Type="Folder" Created="2022-06-12 22:59:31 +1000" Modified="2022-06-12 22:59:45 +1000">
+                    <Title>ഇഞ്ചിമുട്ടായി</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem UUID="4B8D6497-BF51-4060-B03E-639A5C70A81F" Type="Text" Created="2022-06-12 23:55:14 +1000" Modified="2022-06-13 00:59:56 +1000">
+                            <Title>ഇഞ്ചിമുട്ടായി</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>2301,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem UUID="FFC6A6F5-C1FC-46A6-99D3-59AED10EC4A1" Type="Folder" Created="2021-11-07 17:01:02 +1000" Modified="2022-04-10 16:32:10 +1000">
+            <Title>Ideas</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+            <TextSettings>
+                <TextSelection>0,0</TextSelection>
+            </TextSettings>
+        </BinderItem>
+        <BinderItem UUID="1647B45B-6BE3-40E9-AE32-11AF4763303F" Type="ResearchFolder" Created="2020-04-12 09:11:28 +1000" Modified="2020-04-12 09:11:28 +1000">
+            <Title>Research</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+            <Children>
+                <BinderItem UUID="7381248B-B9E5-4ED6-859B-2C7ADF4DDEE8" Type="Folder" Created="2020-04-12 09:35:50 +1000" Modified="2020-04-12 09:35:51 +1000">
+                    <Title>ഇസബെല്ല</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem UUID="A13712F0-BB59-481C-9821-E6EA85771728" Type="Text" Created="2020-04-16 23:25:55 +1000" Modified="2020-04-17 23:19:59 +1000">
+                            <Title>Notes</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>rtf</FileExtension>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>436,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="6E9A7D17-0792-451C-B0A1-8CF8011B184D" Type="Text" Created="2020-04-16 23:26:19 +1000" Modified="2020-05-03 14:24:53 +1000">
+                            <Title>actual notes</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>1675,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="A0937305-164B-4E6E-BD10-6AC3194312E9" Type="Text" Created="2020-04-16 23:26:22 +1000" Modified="2020-05-03 13:51:34 +1000">
+                            <Title>Chile</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>128,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem UUID="BE467A44-59B4-49F1-83D6-44C4118771A7" Type="Folder" Created="2022-04-10 16:35:36 +1000" Modified="2022-04-10 16:35:40 +1000">
+                    <Title>മായികം</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem UUID="0E6215DF-9025-45E4-A578-625BEC58F7CD" Type="Text" Created="2022-04-17 01:31:25 +1000" Modified="2022-04-17 01:31:27 +1000">
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>5791,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem UUID="5BE7CA06-20C5-4714-825A-E63854079F96" Type="Folder" Created="2022-06-12 22:59:53 +1000" Modified="2022-06-12 23:00:02 +1000">
+                    <Title>ഇഞ്ചിമുട്ടായി</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem UUID="B9E745B0-7C23-4476-937F-C93A24FC775B" Type="Text" Created="2022-06-12 23:55:32 +1000" Modified="2022-06-12 23:55:37 +1000">
+                            <Title>Notes</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem UUID="647F96C2-E161-4BAA-8EBD-CCE76CBEFC16" Type="TrashFolder" Created="2020-04-12 09:11:28 +1000" Modified="2020-04-12 09:11:28 +1000">
+            <Title>Trash</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+        </BinderItem>
+        <BinderItem UUID="BD26F774-6095-443F-9EA0-D8B2D5383BEB" Type="Folder" Created="2020-04-12 09:29:48 +1000" Modified="2020-04-12 15:49:41 +1000">
+            <Title>Characters</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+                <IconFileName>Characters (Mask).tiff</IconFileName>
+            </MetaData>
+            <TextSettings>
+                <TextSelection>0,0</TextSelection>
+            </TextSettings>
+        </BinderItem>
+        <BinderItem UUID="16F60AB1-2ED4-4559-9FAA-E56F141013F7" Type="Folder" Created="2020-04-12 15:48:31 +1000" Modified="2020-04-12 15:49:10 +1000">
+            <Title>Files</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+                <IconFileName>Characters (Photo).tiff</IconFileName>
+            </MetaData>
+            <TextSettings>
+                <TextSelection>0,0</TextSelection>
+            </TextSettings>
+        </BinderItem>
+    </Binder>
+    <Collections>
+        <Collection Type="Binder" ID="FC5BB424-BB76-4488-95F7-C185CCFF5D49" Color="0.266667 0.305882 0.333333">
+            <Title>Binder</Title>
+        </Collection>
+        <Collection Type="RecentSearch" ID="FA34FFB9-37E4-46BA-8181-9BEB3527C31D" Color="0.250980 0.274510 0.290196">
+            <Title>Search Results</Title>
+            <SearchSettings Operator="Exact" Type="All" Scope="All" CompileSetting="All" CaseSensitive="No" IgnoreDiacritics="No"></SearchSettings>
+        </Collection>
+    </Collections>
+    <SectionTypes>
+        <TypeDefinitions>
+            <Type ID="CA4EC106-DAFE-4887-B9B9-8BCE03F2D3B7">Heading</Type>
+            <Type ID="1643BDE1-E833-4099-B43E-92D2D0000B09">Sub-Heading</Type>
+            <Type ID="152B67D1-334D-4BBF-9829-E0B2AC58D75A">Section</Type>
+            <Type ID="2234481D-319F-43C9-8DF1-34052ADF1623">Section Start</Type>
+        </TypeDefinitions>
+        <LevelTypes>
+            <Folders>
+                <Type>CA4EC106-DAFE-4887-B9B9-8BCE03F2D3B7</Type>
+            </Folders>
+            <Containers>
+                <Type>152B67D1-334D-4BBF-9829-E0B2AC58D75A</Type>
+            </Containers>
+            <Files>
+                <Type>152B67D1-334D-4BBF-9829-E0B2AC58D75A</Type>
+            </Files>
+        </LevelTypes>
+    </SectionTypes>
+    <LabelSettings>
+        <Title>Label</Title>
+        <DefaultLabelID>-1</DefaultLabelID>
+        <Labels>
+            <Label ID="-1">No Label</Label>
+            <Label ID="0" Color="0.752941 0.752941 1.000000">Concept</Label>
+            <Label ID="1" Color="1.000000 0.752941 0.752941">Chapter</Label>
+        </Labels>
+    </LabelSettings>
+    <StatusSettings>
+        <Title>Status</Title>
+        <DefaultStatusID>-1</DefaultStatusID>
+        <StatusItems>
+            <Status ID="-1">No Status</Status>
+            <Status ID="0">N/A</Status>
+            <Status ID="1">To Do</Status>
+            <Status ID="2">First Draft</Status>
+            <Status ID="3">Revised Draft</Status>
+            <Status ID="4">Final Draft</Status>
+            <Status ID="5">Done</Status>
+        </StatusItems>
+    </StatusSettings>
+    <ProjectBookmarks>
+        <Bookmark BinderUUID="CD4D14BB-82D8-4AA6-8D4F-17DFFA8B70A6">Front</Bookmark>
+    </ProjectBookmarks>
+    <ProjectTargets Notify="No">
+        <DraftTarget Type="Words" CountIncludedOnly="No" CurrentCompileGroupOnly="No">0</DraftTarget>
+        <SessionTarget Type="Words" CountDraftOnly="No" AllowNegatives="No" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="Yes" WritingDays="">0</SessionTarget>
+        <PreviousSession Words="18" Characters="174" Date="2022-06-13 01:05:37 +1000"/>
+    </ProjectTargets>
+    <RecentWritingHistory Date="2022-06-13 00:00:00 +1000">
+        <DraftWordCount>15</DraftWordCount>
+        <DraftCharCount>163</DraftCharCount>
+        <OtherWordCount>0</OtherWordCount>
+        <OtherCharCount>0</OtherCharCount>
+    </RecentWritingHistory>
+    <PrintSettings LeftMargin="0.0" RightMargin="0.0" TopMargin="0.0" BottomMargin="0.0" PaperType="Letter" Orientation="Portrait" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="No" PagesAcross="1" PagesDown="1"/>
+</ScrivenerProject>

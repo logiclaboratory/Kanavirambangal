@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CompileSettings>
+    <ProjectSettings>
+        <Content Scope="Included">
+            <CompileGroup Type="BinderItem"/>
+            <Filter State="Off" Exclude="No" Type="Label">
+                <Label>-1</Label>
+            </Filter>
+        </Content>
+        <Options>
+            <RemoveAnnotations>Yes</RemoveAnnotations>
+            <ResampleImages DPI="72" MaxSize="0">No</ResampleImages>
+            <ConvertRichTextToMMD>No</ConvertRichTextToMMD>
+            <Links/>
+            <PDF>
+                <Cover Source="" Bleed="0.0" BleedUnits="pt"></Cover>
+                <Compression Enabled="No">
+                    <ImageResolutionCompressionType></ImageResolutionCompressionType>
+                    <ImageResolution>300</ImageResolution>
+                    <CompressionQuality>0.5</CompressionQuality>
+                </Compression>
+            </PDF>
+            <Scriptwriting>
+                <IncludeTitles>Yes</IncludeTitles>
+                <IncludeSynopses>Yes</IncludeSynopses>
+                <CommentsAsScriptNotes>Yes</CommentsAsScriptNotes>
+            </Scriptwriting>
+            <Ebook>
+                <Cover>
+                    <ImageDocument Source="Binder">F74F44D9-5F22-4342-B14E-3FCB3F3AF700</ImageDocument>
+                    <Title>Cover</Title>
+                    <SVG Width="-1" Height="-1"><![CDATA[]]></SVG>
+                </Cover>
+                <TOC FlatNCX="Yes" PandocDepth="3">
+                    <HTML>
+                        <Title></Title>
+                    </HTML>
+                </TOC>
+            </Ebook>
+        </Options>
+        <MetaData>
+            <ProjectTitle>കനവിരമ്പങ്ങള്‍</ProjectTitle>
+            <ProjectAbbreviatedTitle>കനവിരമ്പങ്ങള്‍</ProjectAbbreviatedTitle>
+            <Authors>
+                <Author>ഫെബിന്‍ ജോയ് അറപ്പാട്ട്</Author>
+            </Authors>
+            <EbookLanguage>English</EbookLanguage>
+        </MetaData>
+    </ProjectSettings>
+    <CurrentFileType>kf8</CurrentFileType>
+    <FormatSettings>
+        <Format ID="F7A73403-A7DD-4FAF-A4CD-87A6C24CD188">
+            <FrontAndBackMatter>
+                <DefaultFrontMatter Add="Yes">CD4D14BB-82D8-4AA6-8D4F-17DFFA8B70A6</DefaultFrontMatter>
+            </FrontAndBackMatter>
+        </Format>
+        <Format ID="DEFAULT">
+            <SectionLayouts>
+                <Type ID="152B67D1-334D-4BBF-9829-E0B2AC58D75A">TEXT-SECTION</Type>
+                <Type ID="CA4EC106-DAFE-4887-B9B9-8BCE03F2D3B7">NEW-PAGE-HEADER-WITH-TEXT</Type>
+            </SectionLayouts>
+        </Format>
+        <Format ID="e-book">
+            <FrontAndBackMatter>
+                <DefaultFrontMatter Add="Yes">CD4D14BB-82D8-4AA6-8D4F-17DFFA8B70A6</DefaultFrontMatter>
+            </FrontAndBackMatter>
+        </Format>
+    </FormatSettings>
+    <LastUsedFormats>
+        <kf8>e-book</kf8>
+        <mobi>F7A73403-A7DD-4FAF-A4CD-87A6C24CD188</mobi>
+    </LastUsedFormats>
+</CompileSettings>
