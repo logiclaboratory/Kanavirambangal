@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="2.0" Identifier="5C7BB5E8-D8C6-42A7-B882-1EE8999B8AFE" Creator="SCRWIN-3.1.1.0" Device="DESKTOP-P3U8FOU" Modified="2022-06-13 01:05:37 +1000" ModID="6AD76AB5-5399-4293-A2F7-0ACD10CA5B6C">
+<ScrivenerProject Template="No" Version="2.0" Identifier="5C7BB5E8-D8C6-42A7-B882-1EE8999B8AFE" Creator="SCRWIN-3.1.1.0" Device="Jofebin-NUC" Modified="2022-06-23 22:56:57 +1000" ModID="A5E9BF0C-EE5D-4B32-BC01-118264502E7D">
     <Binder>
         <BinderItem UUID="F74F44D9-5F22-4342-B14E-3FCB3F3AF700" Type="Image" Created="2020-04-12 01:32:27 +1000" Modified="2020-04-12 15:50:11 +1000">
             <Title>Cover</Title>
@@ -180,6 +180,26 @@
                         </BinderItem>
                     </Children>
                 </BinderItem>
+                <BinderItem UUID="073A8137-6038-4E26-940E-7F291E536D98" Type="Folder" Created="2022-06-23 22:50:01 +1000" Modified="2022-06-23 22:56:56 +1000">
+                    <Title>തൊടി</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem UUID="50A187C1-FB85-4786-9A5E-5766D6B6E199" Type="Text" Created="2022-06-23 22:56:25 +1000" Modified="2022-06-23 22:56:36 +1000">
+                            <Title>തൊടി</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
             </Children>
         </BinderItem>
         <BinderItem UUID="FFC6A6F5-C1FC-46A6-99D3-59AED10EC4A1" Type="Folder" Created="2021-11-07 17:01:02 +1000" Modified="2022-04-10 16:32:10 +1000">
@@ -305,10 +325,10 @@
         </BinderItem>
     </Binder>
     <Collections>
-        <Collection Type="Binder" ID="FC5BB424-BB76-4488-95F7-C185CCFF5D49" Color="0.266667 0.305882 0.333333">
+        <Collection Type="Binder" ID="FC5BB424-BB76-4488-95F7-C185CCFF5D49" Color="0.941176 0.937255 0.956863">
             <Title>Binder</Title>
         </Collection>
-        <Collection Type="RecentSearch" ID="FA34FFB9-37E4-46BA-8181-9BEB3527C31D" Color="0.250980 0.274510 0.290196">
+        <Collection Type="RecentSearch" ID="FA34FFB9-37E4-46BA-8181-9BEB3527C31D" Color="0.901961 0.901961 0.980392">
             <Title>Search Results</Title>
             <SearchSettings Operator="Exact" Type="All" Scope="All" CompileSetting="All" CaseSensitive="No" IgnoreDiacritics="No"></SearchSettings>
         </Collection>
@@ -360,11 +380,11 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="No" CurrentCompileGroupOnly="No">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="No" AllowNegatives="No" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="Yes" WritingDays="">0</SessionTarget>
-        <PreviousSession Words="18" Characters="174" Date="2022-06-13 01:05:37 +1000"/>
+        <PreviousSession Words="0" Characters="0" Date="2022-06-23 22:56:57 +1000"/>
     </ProjectTargets>
-    <RecentWritingHistory Date="2022-06-13 00:00:00 +1000">
-        <DraftWordCount>15</DraftWordCount>
-        <DraftCharCount>163</DraftCharCount>
+    <RecentWritingHistory Date="2022-06-23 00:00:00 +1000">
+        <DraftWordCount>0</DraftWordCount>
+        <DraftCharCount>0</DraftCharCount>
         <OtherWordCount>0</OtherWordCount>
         <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>
